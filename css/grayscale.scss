@@ -500,26 +500,3 @@ hr.gradient {
   
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {display: block;}
-
-/* Start Embed YouTube responsively */
-  .embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-    
-  .embed-container iframe,
-  .embed-container object,
-  .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-        /* Add the video wit this syntax: */
-        /* <div class='embed-container'><iframe src='https://www.youtube.com/embed/DtujcEBd730' frameborder='0' allowfullscreen></iframe></div>
-
-  /* End Embed YouTube responsively */

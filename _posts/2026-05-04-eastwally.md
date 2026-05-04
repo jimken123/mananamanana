@@ -49,9 +49,7 @@ The song is 'Soft Rain' which, appropriately for this blogpost, is deeply nostal
 > 
 > *All of our adventures reenacted so clear*
 
-<div class='embed-container'>
-    <iframe src='https://www.youtube.com/embed/DtujcEBd730' frameborder='0' allowfullscreen></iframe>
-</div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DtujcEBd730' frameborder='0' allowfullscreen></iframe></div>
 
 By June 2014 half the building was gone, and mysteriously, the lamppost had been relocated a couple of meters down the street. I wonder what that was about?
 
