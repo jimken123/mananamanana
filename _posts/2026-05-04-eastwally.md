@@ -35,19 +35,19 @@ By July 2012, our guy was gone, painted over with by renowned Dublin artist Mase
 
 ![eastwall](/img/2026/eastwally.15.21.32.png)
 
-> The Liffey cuts the city like a meandering blue vein;
+> *The Liffey cuts the city like a meandering blue vein;*
 > 
-> ancient poetry echoes
+> *ancient poetry echoes*
 
 The song is 'Soft Rain' which, appropriately for this blogpost, is deeply nostalgic for dear old Dublin, as she was back in the day.
 
-> The Liffey cuts the city, a meandering blue vein
+> *The Liffey cuts the city, a meandering blue vein*
 > 
-> Ancient poetry echoes and soft rain down the lanes
+> *Ancient poetry echoes and soft rain down the lanes*
 > 
-> I see you in the city, your face is everywhere
+> *I see you in the city, your face is everywhere*
 > 
-> All of our adventures reenacted so clear
+> *All of our adventures reenacted so clear*
 
 <iframe width="1080" height="608" src="https://www.youtube.com/embed/DtujcEBd730" title="Damien Dempsey and Crash Ensemble perform &#39;Soft Rain&#39; | RTÉ Shine Your Light - Solstice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -71,9 +71,9 @@ Two years and a couple of floors later, the glass is going in. By March 2022, it
 
 ![eastwall](/img/2026/eastwally.15.24.02.png)
 
-> Lines written on a bench
+> *Lines written on a bench*
 > 
-> erected to the memory of Mrs. East Wally
+> *erected to the memory of Mrs. East Wally*
 
 In 2023 the Salesforce sign has appeared, as have the lanyard-wearing smokers, a new traditional signifying of the gentrification of the neighbourhood.
 
