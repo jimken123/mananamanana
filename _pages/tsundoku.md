@@ -21,7 +21,7 @@ This is what I'm reading at the moment, have piled up to read in the future, or 
 <!---
 #### Inventing the Renaissance - Ada Palmer
 
-// fsdhgjkdshgljkdf
+// I read this in fits and starts, not because it's difficult or anything g, but that it's very chunky. <mastodon screengrab> It's quite the wild ride, plati g with the idea of the Renaissance itself, that the 'period of history known a s the Renaissance is so baggy sny easily redefined, thet you can write and read into it whatever shade if history you want. it's told in an informal way?, with, for example, major character sharing g a name habi g jocular nicknames to distinguish them one from the other. The author is also on mastodon where she is h9gely entertaining g?, with random little threads on various aspects of all that era of history.  check out her thread on the construction and politics of tbe vasari corridor slicing through the skyliwn of medieval Florence.
 
 // <img src="/img/tsundoku/inventing-the-renaissance.jpg" width="300">
 -->
