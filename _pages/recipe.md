@@ -14,6 +14,8 @@ We believe in Delia.
 
 <img src="/img/delia-smith.jpg">
 
+<hr>
+
 ### Pancake
 
 - Plain flour, sifted - 440 g
@@ -22,6 +24,8 @@ We believe in Delia.
 - Eggs - 8
 - Milk - 800 ml
 - Water - 300 ml
+
+<hr>
 
 ### Crumble
 
@@ -35,6 +39,8 @@ We believe in Delia.
 - Flour - 175 g
 - Sugar - 110 g
 - Butter - 110 g
+
+<hr>
 
 ### Falafel burgers
 
@@ -54,6 +60,8 @@ Red onion, roughly chopped
 - Fry for 3 mins on each side until lightly golden. 
 - Serve with toasted pitta bread, tomato salsa, and green salad.
 
+<hr>
+
 ### Cheese omelette
 
 - Eggs, 2
@@ -71,6 +79,8 @@ Red onion, roughly chopped
 - Sprinkle over the cheese.
 - Fold the omelette in half.
 - Sprinkle over some black pepper.
+
+<hr>
 
 ### Thai prawn curry
 
@@ -94,6 +104,8 @@ Red onion, roughly chopped
 - Tip in prawns.
 - Cook for 5-10 mins.
 - Serve with rice.
+
+<hr>
 
 ### Teriyaki chicken
 
@@ -127,3 +139,23 @@ shredded, to serve
 to serve
 - steamed bok choi
 or spring greens, to serve
+
+<hr>
+
+### Spicy chicken & avocado wrap
+
+- Chicken breast, thinly sliced
+- Squeeze hal a lime
+- Half teaspoon mild chilli powder
+- Chopped garlic clove
+- Teaspoon olive oil
+- Avocado, halved, stoned, chopped
+- Red pepper, roasted or fried
+- Wraps
+
+#### Recipe
+
+- Mix chicken, lime juice, chilli powder, and garlic.
+- Heat oil.
+- Fry chicken and peppers.
+- In the wrap, add everything.
