@@ -159,3 +159,9 @@ or spring greens, to serve
 - Heat oil.
 - Fry chicken and peppers.
 - In the wrap, add everything.
+
+### Saoirse's salad
+
+Saoirse has invented a salad recipe.
+
+![alt text](img/2026/saoirse-salad.jpg)
