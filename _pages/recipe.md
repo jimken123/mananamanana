@@ -164,4 +164,4 @@ or spring greens, to serve
 
 Saoirse has invented a salad recipe.
 
-![alt text](img/2026/saoirse-salad.jpg)
+![yo yo](/img/2026/saoirse-salad.jpg)
