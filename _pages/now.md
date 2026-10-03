@@ -10,6 +10,8 @@ permalink: /now/
 
 These are the things I'm working on, or updating as I go.
 
+[/jimkennedy.cv](https://jimkennedy.cv) - I'm job hunting at the moment so I've built a CV website.
+
 [/hello](/hello) - how to get in touch, or just where to find my stuff.
 
 [/jetcim](/jetcim) - one by one I'm sitting on all the chairlifts.

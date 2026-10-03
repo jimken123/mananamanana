@@ -10,7 +10,7 @@ permalink: /then/
 
 These are the things from the past, a foreign country.
 
-[/twitter](https://tweet-archive.github.io/twitter/) - I was on twitter from 2008 to 2022, and now I'm no longer there because, well, you know. This is a backup archive of my account.
+[/twitter](https://jimken123.github.io/twitter/) - I was on twitter from 2008 to 2022, and now I'm no longer there because, well, you know. This is a backup archive of my account.
 
 [/mananamanana blog](https://mananamanana.wordpress.com) - from 2008 to 2011 I ran the MananaManana blog, and it's still up there on WordPress.
 
