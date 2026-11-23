@@ -160,8 +160,89 @@ or spring greens, to serve
 - Fry chicken and peppers.
 - In the wrap, add everything.
 
+<hr>
+
 ### Saoirse's salad
 
 Saoirse has invented a salad recipe.
 
 ![yo yo](/img/2026/saoirse-salad.jpg)
+
+<hr>
+
+### Cinnamon Rolls
+
+Dough
+
+- 50 g granulated sugar
+- 344 g all-purpose flour
+- 1/2 teaspoon salt
+- 180 ml milk
+- 43 g butter
+- 1 standard packet yeast
+- 1 large egg
+
+Filling
+
+- 43 g butter, softened
+- 67 g brown sugar
+- 1 Tablespoon cinnamon
+
+Icing
+
+- 113 g cream cheese
+- 28 g butter
+- 80 g glazing sugar
+- 1 teaspoon vanilla extract
+
+#### Recipe
+
+##### Dough
+
+- Blend milk and warmed butter.
+
+- Mix in yeast until it dissolves.
+
+- Add the sugar, flour, salt, and egg.
+
+- Whisk together.
+
+- Transfer dough to a lightly floured surface. 
+
+- Knead the dough for 3-5 minutes.
+
+- Place in a lightly greased bowl and cover loosely for 10 minutes.
+
+- Roll dough out into a rectangle.
+
+##### Filling
+
+- Spread the softened butter on top.
+
+- Mix together the cinnamon and brown sugar.
+
+- Sprinkle it over the dough.
+
+##### Rising
+
+- Roll up the dough into a log.
+
+- Cut into 10–12 even rolls.
+
+- Transfer to a lightly greased baking tray.
+
+- Cover with a kitchen towel and leave in a warm place for 60–90 minutes.
+
+##### Icing
+
+- Whisk cream cheese, butter, glazing sugar, and vanilla.
+
+##### Baking
+
+- Bake the rolls for 10-27 minutes at 190°C, until lightly browned.
+
+- Transfer to a wire rack.
+
+- Spread the icing over the warm rolls and serve immediately.
+
+<hr>
